@@ -1,3 +1,4 @@
+A small script for getting an ordered list of how many bases each faction owns in NV-MP's RADD server
 Example output:
 
 
