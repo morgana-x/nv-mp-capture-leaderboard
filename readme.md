@@ -15,3 +15,4 @@ Caesars Legion: 22
 Desert Rangers: 25
 Brotherhood of Steel: 36
 Talon Co: 40
+
